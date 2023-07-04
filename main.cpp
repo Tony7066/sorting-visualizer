@@ -5,7 +5,7 @@ using namespace std;
 //represents all the sorting algos in program
 void printoptions()
 {
-    cout<<" 1.Bubble sort \n 2.Insertion sort \n 3.Selection sort \n 4.Quick sort \n 5.Merge sort \n 7.To terminate the program\n";
+    cout<<" 1.Bubble sort \n 2.Insertion sort \n 3.Selection sort \n 4.Quick sort \n 5.Merge sort \n 6.Heap Sort\n 7.To terminate the program\n";
 }
 
 // printing the curr states of arr in all sorts
